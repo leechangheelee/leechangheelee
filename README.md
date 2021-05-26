@@ -1,4 +1,4 @@
-I am who want to be a SW developer.
+I am one who wants to become a software developer.
 
 <!---
 leechangheelee/leechangheelee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
